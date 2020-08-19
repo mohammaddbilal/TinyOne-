@@ -1,2 +1,1 @@
-# TinyOne-
-TinyOne
+https://mohammaddbilal.github.io/TinyOne-/.
