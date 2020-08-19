@@ -160,7 +160,10 @@ header{
   .btn_submit:hover{
     background-color: white;
   }
-  .colorw{
+  .colorw h2{
+    color: white !important;
+  }
+  .colorw p{
     color: white !important;
   }
 /* contact ends */
